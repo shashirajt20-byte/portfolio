@@ -1,13 +1,5 @@
 # Shashi Raj Portfolio
 
-Built from the existing portfolio content, with:
-- Same homepage project content
-- About section exactly as requested
-- A single `200+ DSA Problems Solved` metric (no DSA topic breakdown)
-- Clickable project cards
-- Dedicated project pages for Offline UPI, SMARTLOGIX, and LogStream
-- Project-page structure inspired by the reference project page
-- Responsive dark/purple design
 
 ## Run
 
