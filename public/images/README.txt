@@ -1,0 +1,1 @@
+Replace upi-project.svg, smartlogix-project.svg, and logstream-project.svg with your own project screenshots if desired. The homepage currently references the original /images/*.png names from your portfolio; copy your PNGs into this folder with those names.

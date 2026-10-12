@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+    <defs><radialGradient id="g"><stop stop-color="#6d28d9"/><stop offset="1" stop-color="#07090d"/></radialGradient></defs>
+    <rect width="1200" height="800" fill="#07090d"/><rect x="35" y="35" width="1130" height="730" rx="32" fill="url(#g)" opacity=".7"/>
+    <circle cx="900" cy="210" r="180" fill="#a78bfa" opacity=".12"/><circle cx="980" cy="560" r="250" fill="#8b5cf6" opacity=".08"/>
+    <text x="90" y="350" fill="#f4f5f7" font-family="Arial,sans-serif" font-size="76" font-weight="800">Offline UPI</text>
+    <text x="94" y="425" fill="#c4b5fd" font-family="Arial,sans-serif" font-size="32">Mesh Payments</text>
+    <text x="94" y="690" fill="#71717a" font-family="monospace" font-size="22">SHASHI RAJ · SOFTWARE ENGINEER</text></svg>
