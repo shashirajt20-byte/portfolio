@@ -130,7 +130,7 @@ function App() {
     <section id="about"><div className="container">
       <div className="section-heading"><div className="section-label">01 — About</div><h2 className="section-title">Who I am.</h2></div>
       <div className="about-grid"><div className="about-number">03</div>
-        <p className="about-text">3rd-year Computer Science Engineering student and Software Engineer / Backend Engineer with hands-on experience building scalable backend systems and REST APIs. Solved with strong problem-solving skills. Primary stack: Java, Spring Boot, REST APIs.</p>
+        <p className="about-text">3rd-year Computer Science Engineering student and Software Engineer / Backend Engineer with hands-on experience building scalable backend systems and REST APIs. Solved 200+ DSA problems with strong problem-solving skills. Primary stack: Java, Spring Boot, REST APIs.</p>
       </div>
     </div></section>
 
