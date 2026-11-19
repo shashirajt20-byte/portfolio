@@ -81,7 +81,7 @@ const projects = [
 ];
 
 const experiences = [
-  { period: "SEP 2026 — DEC 2026", company: "Axlero Innovative Solutions", role: "Backend Engineer Intern", current: true },
+  { period: "SEP 2026 — DEC 2026", company: "Axlero Innovative Solutions", role: "Backend Developer Intern", current: true },
   { period: "JAN 2026 — FEB 2026", company: "Civora Nexus Pvt. Ltd", role: "Backend Developer Intern" },
   { period: "JUN 2025 — JUL 2025", company: "RIT Roorkee", role: "Java Developer Intern" }
 ];
