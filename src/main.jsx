@@ -114,7 +114,7 @@ function App() {
           <div className="code-line"><i>public class</i> <b>Engineer</b> {"{"}</div>
           <div className="code-line">&nbsp;&nbsp;<i>String</i> <em>stack</em> =</div>
           <div className="code-line">&nbsp;&nbsp;&nbsp;&nbsp;<strong>"Java + Spring Boot"</strong>;</div>
-          <div className="code-line">&nbsp;&nbsp;<i>int</i> <em>dsaSolved</em> = <b>200</b>+;</div>
+          <div className="code-line">&nbsp;&nbsp;<i>int</i> <em>dsaSolved</em> = <b>250</b>+;</div>
           <div className="code-line">&nbsp;&nbsp;<i>boolean</i> <em>backend</em> = <strong>true</strong>;</div>
           <div className="code-line">{"}"}</div>
         </div>
@@ -122,7 +122,7 @@ function App() {
     </div></main>
 
     <div className="container"><div className="metrics">
-      <div className="metric"><div className="metric-number">200+</div><div className="metric-label">DSA Problems Solved</div></div>
+      <div className="metric"><div className="metric-number">250+</div><div className="metric-label">DSA Problems Solved</div></div>
       <div className="metric"><div className="metric-number">03</div><div className="metric-label">Featured Projects</div></div>
       <div className="metric"><div className="metric-number">03</div><div className="metric-label">Internship Experiences</div></div>
     </div></div>
@@ -130,7 +130,7 @@ function App() {
     <section id="about"><div className="container">
       <div className="section-heading"><div className="section-label">01 — About</div><h2 className="section-title">Who I am.</h2></div>
       <div className="about-grid"><div className="about-number">03</div>
-        <p className="about-text">3rd-year Computer Science Engineering student and Software Engineer / Backend Engineer with hands-on experience building scalable backend systems and REST APIs. Solved 200+ DSA problems with strong problem-solving skills. Primary stack: Java, Spring Boot, REST APIs.</p>
+        <p className="about-text">3rd-year Computer Science Engineering student and Software Engineer / Backend Engineer with hands-on experience building scalable backend systems and REST APIs. Solved 250+ DSA problems with strong problem-solving skills. Primary stack: Java, Spring Boot, REST APIs.</p>
       </div>
     </div></section>
 
